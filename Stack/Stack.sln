@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack", "Stack\Stack.vcxproj", "{5E607821-90F4-4436-AD3D-C6C1E49F2FF9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_Seq", "Stack\Stack.vcxproj", "{5E607821-90F4-4436-AD3D-C6C1E49F2FF9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack_Link", "Stack_Link\Stack_Link.vcxproj", "{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{5E607821-90F4-4436-AD3D-C6C1E49F2FF9}.Release|x64.Build.0 = Release|x64
 		{5E607821-90F4-4436-AD3D-C6C1E49F2FF9}.Release|x86.ActiveCfg = Release|Win32
 		{5E607821-90F4-4436-AD3D-C6C1E49F2FF9}.Release|x86.Build.0 = Release|Win32
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Debug|x64.ActiveCfg = Debug|x64
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Debug|x64.Build.0 = Debug|x64
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Debug|x86.Build.0 = Debug|Win32
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Release|x64.ActiveCfg = Release|x64
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Release|x64.Build.0 = Release|x64
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Release|x86.ActiveCfg = Release|Win32
+		{7F5B2F6E-E9BC-492F-9CAF-F7F1D82C68F6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
